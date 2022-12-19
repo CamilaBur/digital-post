@@ -1,6 +1,4 @@
-* {
-    font-family: 'Roboto', sans-serif;
-}
+
 
 body {
     background-color: rgb(56, 56, 56);
@@ -45,11 +43,8 @@ form input{
 }
 
 button {
-    border-radius: 2em;
     padding: 5px;
-    border:0.16em solid rgba(255,255,255,0);
-    text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
-    background-color: #3781C4;
+    border: solid rgba(255,255,255,0);
+    background-color: gray;
     color: #fff;
 }
-
